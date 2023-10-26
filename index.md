@@ -23,3 +23,9 @@ Advisors: Dr. Inga Koszalka, Dr. Johan Nilsson
 Beijing Normal University, 2018
 <br>
 Advisor: Dr. Xiaoyan Li
+
+
+## Publications
+
+Datta, R. T., Herrington, A., Lenaerts, J. T. M., Schneider, D. P., Trusel, L., <b>Yin, Z.</b>, and Dunmire, D. (2023): Evaluating the impact of enhanced horizontal resolution over the Antarctic domain using a variable-resolution Earth system model, The Cryosphere. [PDF](https://tc.copernicus.org/articles/17/3847/2023/tc-17-3847-2023.pdf)
+
