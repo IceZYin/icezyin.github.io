@@ -1,2 +1,3 @@
-# Ziqi Yin
-## University of Colorado, Boulder
+# IceZYin.github.io
+
+Repository for creating personal website
