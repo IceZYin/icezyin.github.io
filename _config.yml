@@ -1,11 +1,12 @@
 theme: jekyll-theme-minimal
 title: Ziqi Yin's homepage
 logo: /assets/img/Photo_Ziqi.jpg
-description: Hi! I am a PhD student at University of Colorado, Boulder, studying about ice sheet-climate interactions.
+#description: Hi! I am a PhD student at University of Colorado, Boulder, studying about ice sheet-climate interactions.
+show_downloads: False
 
-navbar:
-  title: "My Website"
-  left:
-  - text: "Contact"
-    href: Contact.md
-include: README.md
+#navbar:
+#  title: "My Website"
+#  left:
+#  - text: "Contact"
+#    href: Contact.md
+#include: README.md
