@@ -6,3 +6,4 @@ navbar:
   left:
   - text: "Contact"
     href: Contact.md
+include: README.md
