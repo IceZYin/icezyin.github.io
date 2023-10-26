@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 title: Ziqi Yin's homepage
 logo: /assets/img/Photo_Ziqi.jpg
-description: Bookmark this to keep an eye on my project updates!
+description: Hi! I am a PhD student at University of Colorado, Boulder, studying about ice sheet-climate interactions.
+
 navbar:
   title: "My Website"
   left:
