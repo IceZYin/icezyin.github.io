@@ -12,12 +12,12 @@ I studies about ice sheet-climate interactions, particularly the surface mass ba
 #### PhD in Atmospheric and Oceanic Sciences
 University of Colorado Boulder, in progress
 <br>
-Advisors: Dr. Aneesh Subramanian
+Advisor: Dr. Aneesh Subramanian
 
 #### MS in Atmospheric Science, Oceanography and Climate
 Stockholm University, 2020
 <br>
-Advisor: Dr. Inga Koszalka, Dr. Johan Nilsson
+Advisors: Dr. Inga Koszalka, Dr. Johan Nilsson
 
 #### BS in Resources and Environmental Sciences
 Beijing Normal University, 2018
