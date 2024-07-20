@@ -27,8 +27,12 @@ Advisor: Dr. Xiaoyan Li
 
 ## Publications
 
+Schneider, D. P., <b>Yin, Z.</b>, O'Connor, G. K., Blanchard-Wrigglesworth, E., Cast, Z. I., Espinosa, Z. I. (in review): Increasing Antarctic snowfall mitigates sea level rise less than projected due to meltwater influence on sea surface temperatures, Proceedings of the National Academy of Sciences (PNAS). 
+
+<b>Yin, Z.</b>, Herrington, A. R., Datta, R. T., Subramanian, A., Lenaerts, J. T. M., and Gettelman, A. (in review): Improved Understanding of Multicentury Greenland Ice Sheet Response to Strong Warming in the Coupled CESM2-CISM2 with Regional Grid Refinement, Journal of Advances in Modeling Earth Systems (JAMES).
+
 Datta, R. T., Herrington, A., Lenaerts, J. T. M., Schneider, D. P., Trusel, L., <b>Yin, Z.</b>, and Dunmire, D. (2023): Evaluating the impact of enhanced horizontal resolution over the Antarctic domain using a variable-resolution Earth system model, The Cryosphere. [PDF](https://tc.copernicus.org/articles/17/3847/2023/tc-17-3847-2023.pdf)
 
-<b>Yin, Z.</b>, Herrington, A. R., Datta, R. T., Subramanian, A., Lenaerts, J. T. M., and Gettelman, A. (in review) Improved Understanding of Multicentury Greenland Ice Sheet Response to Strong Warming in the Coupled CESM2-CISM2 with Regional Grid Refinement, Journal of Advances in Modeling Earth Systems.
+
 
 
