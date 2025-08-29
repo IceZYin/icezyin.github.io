@@ -12,11 +12,12 @@
     <![endif]-->
   </head>
   <body>
-    <nav style="background:#333; padding:10px;">
-      <a href="/" style="color:white; margin-right:15px;">Home</a>
-      <!--<a href="/about" style="color:white; margin-right:15px;">About</a>-->
-      <a href="/research" style="color:white; margin-right:15px;">Research</a>
-      <a href="/contact" style="color:white;">Contact</a>
+    <nav>
+      <div class="nav-inner">
+        <a href="/" class="{% if page.url == '/' %}active{% endif %}">Home</a>
+        <a href="/research/" class="{% if page.url == '/research/' %}active{% endif %}">Research</a>
+        <a href="/contact/" class="{% if page.url == '/contact/' %}active{% endif %}">Contact</a>
+      </div>
     </nav>
     <div class="wrapper">
       <header>
