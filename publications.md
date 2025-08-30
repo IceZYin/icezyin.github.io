@@ -8,7 +8,9 @@ permalink: /publications/
 
 ### Submitted
 
-Schneider, D. P., <b>Yin, Z.</b>, O'Connor, G. K., Blanchard-Wrigglesworth, E., Cast, Z. I., Datta, R. T., Espinosa, Z. I.: Decoded Antarctic snow accumulation history reconciles observed and modeled trends in accumulation and large-scale warming patterns, *Earth System Dynamics*.
+Li, Z., Wu, B., <b>Yin, Z.</b>, Chen, R., Wang, S. : Beyond UNets: A Compact Architecture Outperforms Encoder–Decoder CNNs in Global Ocean NPP Forecasts, *Journal of Advances in Modeling Earth Systems*.
+
+Schneider, D. P., <b>Yin, Z.</b>, O'Connor, G. K., Blanchard-Wrigglesworth, E., Cast, Z. I., Datta, R. T., Espinosa, Z. I. : Decoded Antarctic snow accumulation history reconciles observed and modeled trends in accumulation and large-scale warming patterns, *Earth System Dynamics*.
 
 
 ### Published
