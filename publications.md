@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
+## Publications
 
 <!--Schneider, D. P., <b>Yin, Z.</b>, O'Connor, G. K., Blanchard-Wrigglesworth, E., Cast, Z. I., Espinosa, Z. I. (in review): Increasing Antarctic snowfall mitigates sea level rise less than projected due to meltwater influence on sea surface temperatures, Proceedings of the National Academy of Sciences (PNAS).--> 
 
