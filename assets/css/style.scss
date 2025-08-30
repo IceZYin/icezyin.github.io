@@ -2,6 +2,10 @@
 ---
 @import "{{ site.theme }}";
 
+header {
+  margin-top: 40px;   /* pushes the whole header down */
+}
+
 body {
   background-color: #fff;
   padding: 50px;
