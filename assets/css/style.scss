@@ -73,11 +73,11 @@ nav .nav-inner {
 
 /* Links */
 nav a {
-  font-size: 16px;        /* <<< change link font size */
-  color: #ffffff;
-  text-decoration: none;
-  padding: 6px 8px;       /* click target */
-  border-radius: 4px;
+  font-size: 18px;        /* link font size */
+  color: #36454F;         /* link color */
+  text-decoration: none;  /* removes underlines */
+  padding: 6px 8px;       /* makes links easier to click by adding padding */
+  border-radius: 4px;     /* slightly rounded background if highlighted */
 }
 
 nav a:hover,
