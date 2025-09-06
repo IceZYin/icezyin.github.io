@@ -1,3 +1,12 @@
+---
+layout: default
+title: Ziqi Yin
+hero: true
+hero_image: /assets/img/DSC_2255.JPG
+hero_title: Welcome
+<!--hero_subtitle: Modeling • Causal inference • ML emulators-->
+---
+
 ## About
 
 I am a fifth-year PhD candidate in Atmospheric and Oceanic Sciences at the University of Colorado Boulder.
