@@ -184,8 +184,29 @@ section {
   margin-top: 30px;      /* extra safety: pushes wrapper down if it follows hero */
 }
 
-#main-content {
-  max-width: 900px;   /* keep lines readable */
-  margin: 0 auto;
+
+/* Pages without the wrapper: center the main content, undo theme floats */
+.no-wrapper header,
+.no-wrapper section {
+  float: none;          /* cancel the theme’s float */
+  width: auto;          /* let them size normally */
+}
+
+.no-wrapper header {
+  margin: 0 auto 16px;  /* optional: center the header block too */
+  max-width: 900px;     /* keep lines readable (tune to taste) */
   padding: 0 16px;
 }
+
+.no-wrapper #main-content,
+.no-wrapper section {
+  max-width: 900px;     /* center the content column */
+  margin: 0 auto;       /* horizontally center */
+  padding: 0 16px;      /* nice side padding on mobile */
+  clear: both;          /* ensure it starts below any floats */
+  display: block;
+}
+
+/* Optional: make images/tables behave inside the centered column */
+.no-wrapper #main-content img { max-width: 100%; height: auto; }
+.no-wrapper #main-content table { width: 100%; overflow-x: auto; display: block; }
