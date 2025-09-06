@@ -173,3 +173,7 @@ body { padding-top: 20px; }   /* you currently use padding: 50px; adjust to tast
 @media (max-width: 600px) {
   .hero { min-height: 70vh; }
 }
+
+.hero + .wrapper {
+  margin-top: 24px;      /* extra safety: pushes wrapper down if it follows hero */
+}
