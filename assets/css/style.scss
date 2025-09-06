@@ -112,3 +112,63 @@ nav a.active {
     padding: 6px;
   }
 }
+
+/* ===== HERO ===== */
+.hero {
+  position: relative;
+  width: 100%;
+  min-height: 90vh;            /* nearly full screen; use 100vh if you prefer */
+  background-size: cover;
+  background-position: center center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.35); /* darken image for readable text */
+}
+
+.hero-inner {
+  position: relative;           /* above overlay */
+  padding: 0 16px;
+  max-width: 900px;
+  color: #fff;
+}
+
+.hero-title {
+  margin: 0 0 10px;
+  font-size: clamp(28px, 5vw, 56px);
+  line-height: 1.1;
+  font-weight: 700;
+}
+
+.hero-subtitle {
+  margin: 0 0 24px;
+  font-size: clamp(16px, 2.5vw, 22px);
+  line-height: 1.4;
+  opacity: 0.95;
+}
+
+.hero-down {
+  display: inline-block;
+  margin-top: 16px;
+  font-size: 24px;
+  text-decoration: none;
+  color: #fff;
+  padding: 8px 12px;
+  border: 1px solid rgba(255,255,255,0.6);
+  border-radius: 999px;
+  transition: transform 150ms ease, background 150ms ease;
+}
+.hero-down:hover { transform: translateY(2px); background: rgba(255,255,255,0.12); }
+
+/* Optional: reduce global top padding so the hero sits closer to the top */
+body { padding-top: 20px; }   /* you currently use padding: 50px; adjust to taste */
+
+@media (max-width: 600px) {
+  .hero { min-height: 70vh; }
+}
