@@ -2,6 +2,7 @@
 layout: default
 title: Publications
 permalink: /publications/
+no_wrapper: true
 ---
 
 ## Publications
