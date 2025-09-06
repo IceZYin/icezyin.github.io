@@ -173,6 +173,13 @@ body { padding-top: 20px; }   /* you currently use padding: 50px; adjust to tast
   .hero { min-height: 70vh; }
 }
 
+/* Make sure main content scrolls normally */
+.wrapper,
+header,
+section {
+  position: static;   /* ensure nothing here is fixed/sticky */
+}
+
 .hero + .wrapper {
-  margin-top: 310px;      /* extra safety: pushes wrapper down if it follows hero */
+  margin-top: 30px;      /* extra safety: pushes wrapper down if it follows hero */
 }
