@@ -2,6 +2,7 @@
 layout: default
 title: Contact
 permalink: /contact/
+no_wrapper: true
 ---
 
 ## Contact
