@@ -59,9 +59,9 @@ nav {
   color: #000000;
   width: 100%;
   /* Make sticky by uncommenting the next three lines */
-  /* position: sticky;
-  top: 0;
-  z-index: 1000; */
+  position: static;
+  top: auto;
+  z-index: auto;
 }
 
 /* Center links to match page width */
