@@ -11,7 +11,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
   </head>
-  <body>
+  <body class="{% if page.no_wrapper %}no-wrapper{% endif %}">
     <nav>
       <div class="nav-inner">
         <a href="/" class="{% if page.url == '/' %}active{% endif %}">Home</a>
