@@ -4,7 +4,7 @@ I am a fifth-year PhD candidate in Atmospheric and Oceanic Sciences at the Unive
 
 I studies about ice sheet-climate interactions, particularly the surface mass balance of the Greenland Ice Sheet, and am interested in improving ice sheet modeling and our understanding about ice sheet processes.
 
-[Curriculum vitae](./assets/doc/CV_Ziqi_Yin_202503.pdf) (updated March 2025)
+[Curriculum vitae](./assets/doc/CV_Ziqi_Yin_202509.pdf) (updated September 2025)
 
 
 ## Education
