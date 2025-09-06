@@ -2,6 +2,7 @@
 layout: default
 title: Research
 permalink: /research/
+no_wrapper: true
 ---
 
 # Research
