@@ -183,3 +183,9 @@ section {
 .hero + .wrapper {
   margin-top: 30px;      /* extra safety: pushes wrapper down if it follows hero */
 }
+
+#main-content {
+  max-width: 900px;   /* keep lines readable */
+  margin: 0 auto;
+  padding: 0 16px;
+}
