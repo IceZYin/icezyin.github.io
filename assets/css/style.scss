@@ -58,7 +58,6 @@ nav {
   background: #fff;   /* <<< change bar color here */
   color: #000000;
   width: 100%;
-  /* Make sticky by uncommenting the next three lines */
   position: static;
   top: auto;
   z-index: auto;
@@ -175,5 +174,5 @@ body { padding-top: 20px; }   /* you currently use padding: 50px; adjust to tast
 }
 
 .hero + .wrapper {
-  margin-top: 24px;      /* extra safety: pushes wrapper down if it follows hero */
+  margin-top: 240px;      /* extra safety: pushes wrapper down if it follows hero */
 }
