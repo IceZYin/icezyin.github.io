@@ -10,7 +10,7 @@ no_wrapper: true
 ## Current Projects
 - **Variable-resolution coupled CESM2-CISM2 simulation of the Greenland Ice Sheet**
   <br>
-  <img src="/assets/img/grid-ARCTIC.pdf" alt="CESM2 map" height="200">
+  <img src="/assets/img/grid-ARCTIC.pdf" alt="CESM2 map" height="100">
   
 - **Causal discovery to identify energy balance drivers of Greenland surface melt**
   
