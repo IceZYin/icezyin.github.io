@@ -9,7 +9,7 @@ no_wrapper: true
 
 ### In preparation
 
-<b>Yin, Z.</b>, Subramanian, A., Datta, R. T., Herrington, A. R., Du, D., Ali, S., Faruque, O., Wang, J. : Identifying Energy Balance Drivers and Feedbacks of Greenland Ice Sheet Surface Melt Using Causa Discovery
+<b>Yin, Z.</b>, Subramanian, A., Datta, R. T., Herrington, A. R., Du, D., Ali, S., Faruque, O., Wang, J. : Identifying Energy Balance Drivers and Feedbacks of Greenland Ice Sheet Surface Melt Using Causal Discovery
 
 ### Submitted
 
