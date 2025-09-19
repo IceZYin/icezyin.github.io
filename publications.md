@@ -9,11 +9,11 @@ no_wrapper: true
 
 ### In preparation
 
-<b>Yin, Z.</b>, Subramanian, A., Datta, R. T., Herrington, A. R., Du, D., Ali, S., Faruque, O., Wang, J. : Identifying Energy Balance Drivers and Feedbacks of Greenland Ice Sheet Surface Melt Using Causal Discovery
+<b>Yin, Z.</b>, Subramanian, A., Datta, R. T., Herrington, A. R., Du, D., Ali, S., Faruque, O., Wang, J. : Identifying Energy Balance Drivers and Feedbacks of Greenland Ice Sheet Surface Melt Using Causal Discovery, *Geophysical Research Letters*
 
 ### Submitted
 
-Li, Z., Wu, B., <b>Yin, Z.</b>, Chen, R., Wang, S. : Beyond UNets: A Compact Architecture Outperforms Encoder–Decoder CNNs in Global Ocean NPP Forecasts, *Journal of Advances in Modeling Earth Systems*.
+Li, Z., Wu, B., <b>Yin, Z.</b>, Chen, R., Wang, S. : Beyond UNets: A Compact Architecture Outperforms Encoder–Decoder CNNs in Global Ocean NPP Forecasts, *Ocean Engineering*.
 
 Schneider, D. P., <b>Yin, Z.</b>, O'Connor, G. K., Blanchard-Wrigglesworth, E., Cast, Z. I., Datta, R. T., Espinosa, Z. I. : Decoded Antarctic snow accumulation history reconciles observed and modeled trends in accumulation and large-scale warming patterns, *Earth System Dynamics*.
 
