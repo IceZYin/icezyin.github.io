@@ -14,14 +14,14 @@ no_wrapper: true
 
 ### Submitted
 
-<b>Yin, Z.</b>, Subramanian, A., Datta, R. T., Herrington, A. R., Du, D., Ali, S., Faruque, O., Wang, J. : Identifying Energy Balance Drivers and Feedbacks of Greenland Ice Sheet Surface Melt Using Causal Discovery, *Geophysical Research Letters*
-
-Li, Z., Wu, B., <b>Yin, Z.</b>, Chen, R., Wang, S. : Beyond UNets: A Compact Architecture Outperforms Encoder–Decoder CNNs in Global Ocean NPP Forecasts, *Remote Sensing*.
+<b>Yin, Z.</b>, Subramanian, A., Datta, R. T., Herrington, A. R., Du, D., Ali, S., Faruque, O., Wang, J. : Identifying Energy Balance Drivers and Feedbacks of Greenland Ice Sheet Surface Melt Using Causal Discovery, *Geophysical Research Letters*.
 
 Schneider, D. P., <b>Yin, Z.</b>, O'Connor, G. K., Blanchard-Wrigglesworth, E., Cast, Z. I., Datta, R. T., Espinosa, Z. I. : Decoded Antarctic snow accumulation history reconciles observed and modeled trends in accumulation and large-scale warming patterns, *Earth System Dynamics*.
 
 
 ### Published
+
+Li, Z., Wu, B., <b>Yin, Z.</b>, Chen, R., Wang, S. : Beyond UNets: A Compact Architecture Outperforms Encoder–Decoder CNNs in Global Ocean NPP Forecasts, *Remote Sensing*.
 
 <b>Yin, Z.</b>, Herrington, A. R., Datta, R. T., Subramanian, A., Lenaerts, J. T. M., and Gettelman, A. (2025): Improved Understanding of Multicentury Greenland Ice Sheet Response to Strong Warming in the Coupled CESM2-CISM2 with Regional Grid Refinement, *Journal of Advances in Modeling Earth Systems*. [PDF](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2024MS004310)
 
