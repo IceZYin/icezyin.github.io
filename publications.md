@@ -21,7 +21,7 @@ Schneider, D. P., <b>Yin, Z.</b>, O'Connor, G. K., Blanchard-Wrigglesworth, E., 
 
 ### Published
 
-Li, Z., Wu, B., <b>Yin, Z.</b>, Chen, R., Wang, S. : Beyond UNets: A Compact Architecture Outperforms Encoder–Decoder CNNs in Global Ocean NPP Forecasts, *Remote Sensing*.
+Li, Z., Wu, B., <b>Yin, Z.</b>, Chen, R., Wang, S. (2025): Beyond UNets: A Compact Architecture Outperforms Encoder–Decoder CNNs in Global Ocean NPP Forecasts, *Remote Sensing*.
 
 <b>Yin, Z.</b>, Herrington, A. R., Datta, R. T., Subramanian, A., Lenaerts, J. T. M., and Gettelman, A. (2025): Improved Understanding of Multicentury Greenland Ice Sheet Response to Strong Warming in the Coupled CESM2-CISM2 with Regional Grid Refinement, *Journal of Advances in Modeling Earth Systems*. [PDF](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2024MS004310)
 
