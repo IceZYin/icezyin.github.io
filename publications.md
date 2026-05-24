@@ -9,7 +9,7 @@ no_wrapper: true
 
 ### In preparation
 
-<b>Yin, Z.</b>, Subramanian, A., Datta, R. T., Janeja, V. P., Vizcaino, M., Emulating Greenland Ice Sheet Surface Melt Using Graph Neural Networks
+<b>Yin, Z.</b>, Subramanian, A., Datta, R. T., Vizcaino, M., Kulkarni, C., Janeja, V. P., Emulating Greenland Ice Sheet Surface Melt Using Graph Transformer
 
 
 ### Submitted
