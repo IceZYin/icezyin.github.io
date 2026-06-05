@@ -16,12 +16,12 @@ no_wrapper: true
 
 Ali, S., Hasan, U., Faruque, O., Li, X., Huang, Y., Sampath, A., <b>Yin, Z.</b>, Gani, M. O., Wang, J. : Causality for Earth Science - A Review on Time-series and Spatiotemporal Causality Methods, *Environmental Data Science*
 
-<b>Yin, Z.</b>, Subramanian, A., Datta, R. T., Herrington, A. R., Du, D., Ali, S., Faruque, O., Wang, J. : Identifying Energy Balance Drivers and Feedbacks of Greenland Ice Sheet Surface Melt Using Causal Discovery, *Geophysical Research Letters*.
-
 Schneider, D. P., <b>Yin, Z.</b>, O'Connor, G. K., Blanchard-Wrigglesworth, E., Cast, Z. I., Datta, R. T., Espinosa, Z. I. : Decoded Antarctic snow accumulation history reconciles observed and modeled trends in accumulation and large-scale warming patterns, *Earth System Dynamics*.
 
 
 ### Published
+
+<b>Yin, Z.</b>, Subramanian, A., Datta, R. T., Herrington, A. R., Du, D., Ali, S., Faruque, O., Wang, J. (2026): Identifying Energy Balance Drivers and Feedbacks of Greenland Ice Sheet Surface Melt Using Causal Discovery, *Geophysical Research Letters*. [PDF](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2025GL119928)
 
 Li, Z., Wu, B., <b>Yin, Z.</b>, Chen, R., Wang, S. (2025): Beyond UNets: A Compact Architecture Outperforms Encoder–Decoder CNNs in Global Ocean NPP Forecasts, *Remote Sensing*.
 
