@@ -9,9 +9,9 @@ hero_title: Welcome
 
 ## About
 
-I am a fifth-year PhD candidate in Atmospheric and Oceanic Sciences at the University of Colorado Boulder.
+I am a postdoctoral scientist at the Danish Meteorological Institute.
 
-I studies about ice sheet-climate interactions, particularly the surface mass balance of the Greenland Ice Sheet, and am interested in improving ice sheet modeling and our understanding about ice sheet processes.
+I studies about ice sheet-climate interactions, of both the Greenland and Antarctic Ice Sheets, and am interested in improving ice sheet modeling and our understanding about ice sheet processes.
 
 [Curriculum vitae](./assets/doc/CV_Ziqi_Yin_202512.pdf) (updated December 2025)
 
@@ -19,7 +19,7 @@ I studies about ice sheet-climate interactions, particularly the surface mass ba
 ## Education
 
 #### PhD in Atmospheric and Oceanic Sciences
-University of Colorado Boulder, in progress
+University of Colorado Boulder, 2026
 <br>
 Advisor: Dr. Aneesh Subramanian
 
