@@ -11,7 +11,7 @@ hero_title: Welcome
 
 I am a postdoctoral scientist at the Danish Meteorological Institute.
 
-I studies about ice sheet-climate interactions, of both the Greenland and Antarctic Ice Sheets, and am interested in improving ice sheet modeling and our understanding about ice sheet processes.
+I study about ice sheet-climate interactions of both the Greenland and Antarctic Ice Sheets, with an interest in improving the modeling and understanding of ice sheet-climate processes.
 
 [Curriculum vitae](./assets/doc/CV_Ziqi_Yin_202512.pdf) (updated December 2025)
 
